@@ -1,0 +1,2 @@
+# ida_printk_str_recover
+识别恢复printk字符串的小脚本
